@@ -9,10 +9,9 @@ body {
 	margin: 30px;
 }
 
-/*::selection {
-	background: rgba(255, 0, 0, 0.15);
-	color: red;
-}*/
+.wf-loading #blog {
+	visibility: hidden;
+}
 
 ::selection {
 	background: rgba(255, 139, 0, 0.15);
